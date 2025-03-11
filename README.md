@@ -1,5 +1,5 @@
 # Forever-Ecommerce
-
+(This project is guided by Anil Giri Sir at SevenMentor Institute, Pune.)
 ## Overview
 Forever-Ecommerce is a full-stack eCommerce web application that allows users to browse, search, and purchase products. The project consists of three main components:
 1. **Frontend** - Built using React.js
