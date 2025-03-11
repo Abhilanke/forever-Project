@@ -42,21 +42,21 @@ Make sure you have the following Setup:
 ```sh
 cd backend
 npm install
-npm start
+npm start server
 ```
 
 ### Frontend Setup
 ```sh
 cd frontend
 npm install
-npm start
+npm run dev
 ```
 
 ### Admin Panel Setup
 ```sh
 cd admin
 npm install
-npm start
+npm run dev
 ```
 
 ## Environment Variables
